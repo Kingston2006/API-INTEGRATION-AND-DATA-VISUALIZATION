@@ -51,3 +51,6 @@ API Integration & Customization
 Users must provide their own Alpha Vantage API key for the app to function. The API key is easily set within the code, and the app can be extended to support more stocks or different intervals (e.g., daily, weekly) with minimal changes.
 
 
+
+![Image](https://github.com/user-attachments/assets/740ff695-c1c1-4553-8f10-943f67af594e)
+![Image](https://github.com/user-attachments/assets/f870185d-a87e-482c-baa6-25548a0927ac)
